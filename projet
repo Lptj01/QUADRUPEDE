@@ -4,6 +4,7 @@ Thomas : Programme = Marche / Rotation / Coucou / Passe Obstacle
        : Impression
        : Montage électronique 
        : Bluetooth ( contrôle )
+       : algorithme ( code )
 
 Toscan : Modélisation = Corps / Pattes / Capteurs / Moteurs
        : Programme = Détection obstacle

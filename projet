@@ -1,0 +1,9 @@
+managment : 
+Thomas : Programme = Marche / Rotation / Coucou / Passe Obstacle
+       : Montage = Calibrage de la structure 
+       : Impression
+
+Toscan : Modélisation = Corps / Pattes / Capteurs / Moteurs
+       : Programme = Détection obstacle
+       : Montage = Alimentation ? (dépend Moteurs)
+       : Impression

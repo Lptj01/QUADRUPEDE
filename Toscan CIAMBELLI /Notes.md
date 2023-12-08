@@ -1,1 +1,1 @@
-![alt tag](url de ton image)
+![alt tag](https://github.com/Lptj01/QUADRUPEDE/issues/1#issue-2032587052)

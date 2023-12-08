@@ -1,1 +1,1 @@
-Ce dossier contient l'ensemble des rappports trier par séance.
+Ce dossier contient l'ensemble des rapports trier par séance.

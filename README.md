@@ -21,5 +21,4 @@ Avancée du projet de quadripède (robot à 4 pattes) d'arduino
   <li>1x Carte Arduino Nano ou Uno</li>
   <li>1x Module HC-05,</li>
   <li>1x Capteur de Distance Ultrason</li>
-  <li>1x Module HC-05</li>
 </ul>

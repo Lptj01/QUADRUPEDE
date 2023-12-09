@@ -1,0 +1,31 @@
+objectifs :
+
+-> scéance 1 :
+-commencer à voir la liaison avec bluetooth, création de l'interface / prise en main des futures fonctions (avancée,...)
+-algorithme complet sur comment fonctionnera notre quadrupède 
+-structure du code a faire
+
+-> scéance 2 :
+-perfectionnement dans l'interface téléphone ( si possible développé un logiciel spécial )
+-création des fonctions d'avancement et de rotation (algorithme + début)
+
+-> scéance 3 :
+- on continue la marche avant et on s'avance sur le programme :tests à effectuer si possible
+
+-> scéance 4 :
+-début de nouvelles fonctions : faire coucou (si non finit) + rotation sur soi-même
+
+-> scéance 5 :
+-finalisation de la rotation sur sois même : faire des tests
+
+-> scéance 6 :
+- début du programme de gestion de l'obstacle : des que celui ci est detecté -> accès au bouton "surmonté"
+- structure du programme pour géré l'obstacle : surmonté
+
+-> scéance 7 :
+-finalisation de la gestion de l'obstacle
+-commencé les ajustement finaux : tests,...
+
+-> scéance 8 :
+- dernier réglage a faire
+- finalisation de l'interface sur téléphone (bluetooth)

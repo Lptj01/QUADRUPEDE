@@ -1,1 +1,1 @@
-![alt tag](https://github.com/Lptj01/QUADRUPEDE/issues/1#issue-2032587052)
+![alt tag](Quadrupede/Toscan CIAMBELLI /Planning_Toscan.png)

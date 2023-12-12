@@ -21,3 +21,6 @@ Avancée du projet de quadripède (robot à 4 pattes) d'arduino
   <li>1x Module HC-06,</li>
   <li>1x Capteur de Distance laser</li>
 </ul>
+
+
+

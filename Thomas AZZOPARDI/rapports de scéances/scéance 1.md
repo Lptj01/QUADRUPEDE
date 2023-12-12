@@ -5,7 +5,8 @@ Durant cette 1ère scéance, j'ai commencé à revoir la liason bluetooth et don
 
 
 
-J'ai aussi configuré le module esclave HC-06 en lui attribuant un nom : quadrupede. Mais aussi en modifiant son mot de passe (PIN) en lui attribuant comme base 0000. et en verifiant sa version
+J'ai aussi configuré le module esclave HC-06 en lui attribuant un nom : quadrupede. Mais aussi en modifiant son mot de passe (PIN) en lui attribuant comme base 0000. et en verifiant sa version.
+<br>
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/912dbe80-7ab3-4835-ad16-ae0a60b19ef8"/>
 
 

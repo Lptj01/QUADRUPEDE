@@ -10,3 +10,6 @@ J'ai donc réalisé un petit motage simple pour faire fonctionner 1 Servo-moteur
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/5f86f527-37db-47b2-809b-4408b06c61ba"/>
 
 
+<br></br>
+Ainsi qu'un code assez simple afin de prendre en main ce nouveau domaine :
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/701a24b0-8341-448a-9a82-a568a2f2fcd2"/>

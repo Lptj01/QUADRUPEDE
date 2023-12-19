@@ -25,7 +25,14 @@ Après m'être Familiarisé avec l'utilisation des Servo-Moteur, j'ai pu attaqu�
 La déclaration des ports dans lesquels les Servo-Moteur serront connecté afin de les manipuler :
 <img src ="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/171243e8-eb9c-4780-9e32-bc72cd0d982b"/>
 <br></br>
+Déclarer le Nom des Servo-Moteur (commande Servo + Name), et la librairie qui nous sera indispensable.
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/5e804060-4d61-438d-9dc0-beafc6b9fd97"/>
 <br></br>
+Et enfin le début de fonction qui permettront de déplacer notre Quadrupède vers l'avant en l'occurrence :
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/6bba289d-c644-4cf0-aa9e-4d5e0f496621" />
 <br></br>
+Ces fonctions permettent de faire une rotation d'un certain angle pour 2 moteurs : l'idée et de faire bouger chaque pâtes (constitué de 2 moteurs)  d'un certains angle aà partir d'un angle initial (décalré comme 0 au début), il faudra peut etre rajouter les paramètres "angle1,angle2" afin d'être plus précis et optimal dans le déplacement de notre Quadrupède.
+Les tests pourront s'effectuer plus tard dès qu'une maquettes ou certains éléments de construction seront à disposition.
+
+Pour la prochaine scéance : les objectifs seront de crée une Appli optimisé pour pouvoir déplacer notre Quadrupède et remodifier le programme pour tester nos 2 fonctions à l'aide de cette appli par connection bluetooth.
+

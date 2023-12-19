@@ -22,10 +22,7 @@ Après m'être Familiarisé avec l'utilisation des Servo-Moteur, j'ai pu attaqu�
 <br></br>
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/856cb46a-56c5-41b2-8c9c-6b014b06be58" />
 <br></br>
-
-<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/ea1f385c-0264-4050-b079-639ba6738d17" />
-<br></br>
-
+La déclaration des ports dans lesquels les Servo-Moteur serront connecté afin de les manipuler :
 <img src ="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/171243e8-eb9c-4780-9e32-bc72cd0d982b"/>
 <br></br>
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/5e804060-4d61-438d-9dc0-beafc6b9fd97"/>

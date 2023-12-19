@@ -7,4 +7,6 @@ L'avantage d'avoir commencer par la liason bluetooth, c'est que tout le reste du
 
 J'ai donc réalisé un petit motage simple pour faire fonctionner 1 Servo-moteur à l'aide d'une commande bluetooth :
 
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/5f86f527-37db-47b2-809b-4408b06c61ba">
+
 

@@ -18,7 +18,17 @@ Ainsi qu'un code assez simple afin de prendre en main ce nouveau domaine :
 Qui permet de faire tourner de 180° ou de 0° selon si on active ou non un bouton sur notre téléphone (qui renvoie 1 ou 0 selon s'il est activé ou non).
 
 <br></br>
-Après m'être Familiarisé avec l'utilisation des Servo-Moteur, j'ai pu attaqué un début de marche avant de notre quadrupède à l'aide de fonction :
+Après m'être Familiarisé avec l'utilisation des Servo-Moteur, j'ai pu attaqué un début de marche avant de notre quadrupède à l'aide de fonction, mais il a d'abbord fallut déclaré les futurs Servo-Moteur en fonction de leur emplacement sur notre Quadrupède (pates avant droite, gauche, arrière droite, gauche,...) dans le Setup :
 <br></br>
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/856cb46a-56c5-41b2-8c9c-6b014b06be58" />
+<br></br>
+
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/ea1f385c-0264-4050-b079-639ba6738d17" />
+<br></br>
+
+<img src ="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/171243e8-eb9c-4780-9e32-bc72cd0d982b"/>
+<br></br>
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/5e804060-4d61-438d-9dc0-beafc6b9fd97"/>
+<br></br>
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/6bba289d-c644-4cf0-aa9e-4d5e0f496621" />
 <br></br>

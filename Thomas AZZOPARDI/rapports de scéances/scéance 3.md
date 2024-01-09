@@ -16,4 +16,12 @@ Et qui enchaine enfin avec les boutons de l'interface pour pouvoir controler not
 
 
 tout ceci à été réalisé avec l'utilisation de youtube en majeur partie :
-<img src="
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/ec7160cc-d67e-484e-a562-58c526079ada"/>
+
+
+Lors de La prochaine scéance, l'objectif serai de passer sur la partie programmation de l'application afin de pouvoir voir si elle fonctionne correctement mais aussi de erifié si tout est "adapté (format téléphone,...).
+Je concacrerai donc la majeure partie de la scéance 4 à faire des tests et vérifié s'il marche bien avec notre quadrupède (à commencer par les servo-moteurs.)
+voici ce que j'aborderai :
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/e828905e-70d4-4130-a1cd-48036f2ed56e"/> 
+Mais aussi ce que j'ai commencer (très simple pour le début).
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/2057adaf-ec81-49fd-9c9f-a8dea5ee1c41"/>

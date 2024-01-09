@@ -26,5 +26,6 @@ voici ce que j'aborderai :
 
 
 Mais aussi ce que j'ai commencer (très simple pour le début).
+
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/e828905e-70d4-4130-a1cd-48036f2ed56e"/> 
 

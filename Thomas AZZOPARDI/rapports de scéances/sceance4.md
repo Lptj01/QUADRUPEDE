@@ -11,3 +11,19 @@ avec le code (par block) suivant :
 
 ce qui me permet donc d'afficher les commande seulement si notre téléphone est connecter a notre quadrupède lui permettant d'envoyer les "char" a,g,d,r. 
 Comme test, nous avons pu assembler 1 pate completement ce qui m'a donc permis de tester si mon appli marchait bien, ce qui est le cas
+
+L'interface sur téléphone donne donc ceci :
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/8f04bd4a-55a7-4599-ac12-99f28b150f92"/>
+
+Lorsqu'on se connece elle donne ceci :
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/663a530f-e81c-4986-a3c9-af1971a66296"/>
+
+
+Et lorsque l'on appuie sur "commencer elle affiche les boutons comme ceci :
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/2862fcfb-19ff-41e7-b076-ca0d96e62b99"/>
+
+Lors de mon test j'ai donc faire en sorte de mettre la fleche du haut pour monter la pate et droite gauche pour aller a gauche/ droite via le 2eme servo moteur.
+Tout à bien fonctionner, j'ai donc pu tester tout les servo moteurs afin de vérifier leur bon fonctionnement et il n'y a seulement 1 seul qui a "disfonnctionner".
+
+Malheureusement je trouve que la rotation de la pate s'effectue trop rapidement. Lors de la prochaine scéance j'essayerai d'attaquer la partie de la fonction "coucou" ainsi que le début concret de la marche avant.
+Il faudrait aussi trouver un moyen pour que les servos moteur aillent moins "vite" (meme si les test a cette vitesse sur le vrai quadrupede n'ont pas encore été réalisé.

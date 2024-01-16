@@ -13,14 +13,17 @@ ce qui me permet donc d'afficher les commande seulement si notre téléphone est
 Comme test, nous avons pu assembler 1 pate completement ce qui m'a donc permis de tester si mon appli marchait bien, ce qui est le cas
 
 L'interface sur téléphone donne donc ceci :
-<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/8f04bd4a-55a7-4599-ac12-99f28b150f92"/>
-
-Lorsqu'on se connece elle donne ceci :
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/663a530f-e81c-4986-a3c9-af1971a66296"/>
 
 
-Et lorsque l'on appuie sur "commencer elle affiche les boutons comme ceci :
+Lorsqu'on se connece elle donne ceci :
 <img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/2862fcfb-19ff-41e7-b076-ca0d96e62b99"/>
+
+
+
+Et lorsque l'on appuie sur "commencer elle affiche les boutons comme ceci :
+<img src="https://github.com/Lptj01/QUADRUPEDE/assets/153199410/8f04bd4a-55a7-4599-ac12-99f28b150f92"/>
+
 
 Lors de mon test j'ai donc faire en sorte de mettre la fleche du haut pour monter la pate et droite gauche pour aller a gauche/ droite via le 2eme servo moteur.
 Tout à bien fonctionner, j'ai donc pu tester tout les servo moteurs afin de vérifier leur bon fonctionnement et il n'y a seulement 1 seul qui a "disfonnctionner".

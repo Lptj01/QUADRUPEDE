@@ -1,5 +1,5 @@
 # Quadripede
-Avancée du projet de quadripède (robot à 4 pattes) d'arduino
+Avancée du projet de quadrupède (robot à 4 pattes) d'arduino
 
 <h2>Cahier des charges:</h2>
 <ul>

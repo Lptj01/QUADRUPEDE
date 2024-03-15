@@ -24,4 +24,6 @@ Avancée du projet de quadrupède (robot à 4 pattes) d'arduino
 </ul>
 
 
+Modèle 3D sur Onshape : https://cad.onshape.com/documents/632955793e16b0facafc12ea/w/8e6cc8c8fd5ce23da7aca320/e/97e040573ea4417a355dccc1
+
 

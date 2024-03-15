@@ -23,7 +23,7 @@ Avancée du projet de quadrupède (robot à 4 pattes) d'arduino
   <li>2x batterie 18650</li>
 </ul>
 
-<h2>Lien utile</h2>
+<h2>Liens divers</h2>
 Modèle 3D sur Onshape : https://cad.onshape.com/documents/632955793e16b0facafc12ea/w/8e6cc8c8fd5ce23da7aca320/e/97e040573ea4417a355dccc1
 
 
